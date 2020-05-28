@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TutorialKotlin</string>
+    <string name="dateOfBirthTxt">Enter your year of birth:</string>
+    <string name="btnSubmit">submit</string>
+    <string name="ageTxt">Age: 0</string>
+    <string name="editTextName"></string>
+</resources>
